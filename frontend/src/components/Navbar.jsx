@@ -6,7 +6,7 @@ const Navbar = () => {
       <h1 className="text-lg font-bold">MERN CRUD APP</h1>
       <div>
         <Link to="/" className="mx-2">Home</Link>
-        <Link to="/create" className="mx-2">Add An Item</Link>
+        <Link to="/create" className="mx-2">Add Item</Link>
       </div>
     </nav>
   );
