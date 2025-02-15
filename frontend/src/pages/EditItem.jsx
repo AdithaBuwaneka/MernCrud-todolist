@@ -48,7 +48,7 @@ const EditItem = () => {
           required
         />
         <button type="submit" className="w-full bg-green-500 text-white p-2 rounded">
-          Update
+          UpdateValue
         </button>
       </form>
     </div>
