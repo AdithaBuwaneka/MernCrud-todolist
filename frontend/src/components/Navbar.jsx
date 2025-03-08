@@ -7,6 +7,12 @@ const Navbar = () => {
       <div>
         <Link to="/" className="mx-2">Home</Link>
         <Link to="/create" className="mx-2">Add Item</Link>
+        <Link
+          to="/forgot-password"
+          className="bg-white text-blue-500 px-4 py-2 rounded-lg"
+        >
+          Login
+        </Link>
       </div>
     </nav>
   );
